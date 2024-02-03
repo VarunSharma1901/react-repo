@@ -1,0 +1,19 @@
+.nav-parent-div{
+    height: 1.6rem;
+    width: 100vw;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(175, 153, 125);
+
+}
+.nav-child-one{
+    width: 50%;
+    border-right: 2px solid black;
+}
+
+.nav-child-two{
+    display: flex;
+    justify-content: space-around;
+
+}

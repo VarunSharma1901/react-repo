@@ -1,0 +1,7 @@
+.footer-parent-div{
+    background-color: rgb(175, 153, 125);
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    border: 2px solid black;
+}

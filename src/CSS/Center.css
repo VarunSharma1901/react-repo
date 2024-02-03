@@ -1,0 +1,20 @@
+.center-parent-div{
+
+    margin-top: 100px;
+    margin-left: 300px;
+    position: fixed;
+    height: 500px;
+    width: 500px;
+    border: .5px solid black;
+    background-color: aliceblue;
+}
+
+.column-form{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.column-form>input, .column-form>button{
+   margin: 0px 10px;
+}

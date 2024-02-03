@@ -17,6 +17,7 @@ const JsonBeautifier = () => {
             
             if (JSON.parse(json)) {
     
+                
                 // let updatesJson = JSON.stringify(json);
     
                 document.getElementById("afterBeautifiedText").value = JSON.parse(json);
